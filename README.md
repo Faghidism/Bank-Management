@@ -1,5 +1,7 @@
 # Bank Management System
 
+![Image](https://github.com/user-attachments/assets/72cdc7a6-f63a-459b-8d30-b7e835a2757c)
+
 ## Project Description
 A Java-based bank management system that allows administrators, employees, and customers to register (`sign up`) and authenticate (`sign in`) with unique usernames and passwords. The system provides role-specific functionalities through tailored menus.
 
